@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iNYNylSbXeiz2RBT+Gm22aFHd1tyLDk5DRFIYjPLmWEmguKhme2Ele4EnfglTo6QvTK5uipqwmP7mQnUmE+IKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Design Patterns\\Patterns - Github\\DesignPatterns\\DesignPatterns.Builder\\DesignPatterns.Builder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc-cantelli\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

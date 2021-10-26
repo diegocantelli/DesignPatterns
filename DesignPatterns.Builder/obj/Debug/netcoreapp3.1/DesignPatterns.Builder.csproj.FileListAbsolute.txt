@@ -1,0 +1,13 @@
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Builder\bin\Debug\netcoreapp3.1\DesignPatterns.Builder.exe
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Builder\bin\Debug\netcoreapp3.1\DesignPatterns.Builder.deps.json
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Builder\bin\Debug\netcoreapp3.1\DesignPatterns.Builder.runtimeconfig.json
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Builder\bin\Debug\netcoreapp3.1\DesignPatterns.Builder.runtimeconfig.dev.json
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Builder\bin\Debug\netcoreapp3.1\DesignPatterns.Builder.dll
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Builder\bin\Debug\netcoreapp3.1\DesignPatterns.Builder.pdb
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Builder\obj\Debug\netcoreapp3.1\DesignPatterns.Builder.csproj.AssemblyReference.cache
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Builder\obj\Debug\netcoreapp3.1\DesignPatterns.Builder.AssemblyInfoInputs.cache
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Builder\obj\Debug\netcoreapp3.1\DesignPatterns.Builder.AssemblyInfo.cs
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Builder\obj\Debug\netcoreapp3.1\DesignPatterns.Builder.csproj.CoreCompileInputs.cache
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Builder\obj\Debug\netcoreapp3.1\DesignPatterns.Builder.dll
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Builder\obj\Debug\netcoreapp3.1\DesignPatterns.Builder.pdb
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Builder\obj\Debug\netcoreapp3.1\DesignPatterns.Builder.genruntimeconfig.cache
