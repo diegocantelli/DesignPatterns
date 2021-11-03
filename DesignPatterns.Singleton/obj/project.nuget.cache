@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WunABHkogvMgFuMUZEAY0DE5xZT6ZizGaCtHvhDQuussh4Sf3rief5fJNwI0Yuj34OSW9WPVVZlbs7Onm8Ok1g==",
+  "dgSpecHash": "FoqCHUl0Cp/9SQI9eLAXieuLpoSaomrlWIBzNfN4ngL7zSn4pXy3KO0TIVSD/ZGu3BbIZVvpxuXxUx9vy7Bb5Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Design Patterns\\Patterns - Github\\DesignPatterns\\DesignPatterns.Singleton\\DesignPatterns.Singleton.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\pc-cantelli\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

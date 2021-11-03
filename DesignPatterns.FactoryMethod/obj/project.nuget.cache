@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kiYcwq+OzWPxUF3bDYLLFvCE78e7WAk+iNZGGB8YoQZbPDj8NnZEBtpZfljxycLoSj6gI9mXfKkfSlhgkub41Q==",
+  "dgSpecHash": "0w0CVE5Bpx5G3Il1Y0AGtwUrCQC9zHCRNelTPQgIW8hDoEYFrlwlBXgmQT6NexRGeG6H1aX6mZcQmP/DfwIfcA==",
   "success": true,
   "projectFilePath": "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Design Patterns\\Patterns - Github\\DesignPatterns\\DesignPatterns.FactoryMethod\\DesignPatterns.FactoryMethod.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\pc-cantelli\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
