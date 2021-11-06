@@ -11,3 +11,4 @@ C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Git
 C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Prototype\obj\Debug\netcoreapp3.1\DesignPatterns.Prototype.dll
 C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Prototype\obj\Debug\netcoreapp3.1\DesignPatterns.Prototype.pdb
 C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Prototype\obj\Debug\netcoreapp3.1\DesignPatterns.Prototype.genruntimeconfig.cache
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Prototype\obj\Debug\netcoreapp3.1\DesignPatterns.Prototype.GeneratedMSBuildEditorConfig.editorconfig

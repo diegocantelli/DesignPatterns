@@ -1,0 +1,16 @@
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Decorator\bin\Debug\net5.0\DesignPatterns.Decorator.exe
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Decorator\bin\Debug\net5.0\DesignPatterns.Decorator.deps.json
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Decorator\bin\Debug\net5.0\DesignPatterns.Decorator.runtimeconfig.json
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Decorator\bin\Debug\net5.0\DesignPatterns.Decorator.runtimeconfig.dev.json
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Decorator\bin\Debug\net5.0\DesignPatterns.Decorator.dll
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Decorator\bin\Debug\net5.0\ref\DesignPatterns.Decorator.dll
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Decorator\bin\Debug\net5.0\DesignPatterns.Decorator.pdb
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Decorator\obj\Debug\net5.0\DesignPatterns.Decorator.csproj.AssemblyReference.cache
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Decorator\obj\Debug\net5.0\DesignPatterns.Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Decorator\obj\Debug\net5.0\DesignPatterns.Decorator.AssemblyInfoInputs.cache
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Decorator\obj\Debug\net5.0\DesignPatterns.Decorator.AssemblyInfo.cs
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Decorator\obj\Debug\net5.0\DesignPatterns.Decorator.csproj.CoreCompileInputs.cache
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Decorator\obj\Debug\net5.0\DesignPatterns.Decorator.dll
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Decorator\obj\Debug\net5.0\ref\DesignPatterns.Decorator.dll
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Decorator\obj\Debug\net5.0\DesignPatterns.Decorator.pdb
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Decorator\obj\Debug\net5.0\DesignPatterns.Decorator.genruntimeconfig.cache
