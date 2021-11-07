@@ -29,6 +29,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Estruturais", "Estruturais"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Macoratti", "Macoratti", "{F0E692C0-AE39-4FAB-9555-EC1CD26BCC88}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Comportamentais", "Comportamentais", "{9742B303-5AE4-44C0-B49D-818DA089D463}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.ChainOfResponsibility", "DesignPatterns.ChainOfResponsibility\DesignPatterns.ChainOfResponsibility.csproj", "{3982F05B-C818-454F-B392-EE1C05958361}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,10 @@ Global
 		{8D1DB0DF-57BB-4D85-9103-A8BE250CC23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D1DB0DF-57BB-4D85-9103-A8BE250CC23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D1DB0DF-57BB-4D85-9103-A8BE250CC23B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3982F05B-C818-454F-B392-EE1C05958361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3982F05B-C818-454F-B392-EE1C05958361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3982F05B-C818-454F-B392-EE1C05958361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3982F05B-C818-454F-B392-EE1C05958361}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -92,6 +100,8 @@ Global
 		{8D1DB0DF-57BB-4D85-9103-A8BE250CC23B} = {C3BC50F9-3646-4AA6-87A0-284BDFA2D1A4}
 		{C4C5BC08-A099-48D3-B98E-549F4A72A471} = {F0E692C0-AE39-4FAB-9555-EC1CD26BCC88}
 		{C3BC50F9-3646-4AA6-87A0-284BDFA2D1A4} = {F0E692C0-AE39-4FAB-9555-EC1CD26BCC88}
+		{9742B303-5AE4-44C0-B49D-818DA089D463} = {F0E692C0-AE39-4FAB-9555-EC1CD26BCC88}
+		{3982F05B-C818-454F-B392-EE1C05958361} = {9742B303-5AE4-44C0-B49D-818DA089D463}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9EE21B52-C919-4460-B56A-15ABA0552E9A}
