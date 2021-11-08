@@ -1,0 +1,16 @@
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Mediator\bin\Debug\net5.0\DesignPatterns.Mediator.exe
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Mediator\bin\Debug\net5.0\DesignPatterns.Mediator.deps.json
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Mediator\bin\Debug\net5.0\DesignPatterns.Mediator.runtimeconfig.json
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Mediator\bin\Debug\net5.0\DesignPatterns.Mediator.runtimeconfig.dev.json
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Mediator\bin\Debug\net5.0\DesignPatterns.Mediator.dll
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Mediator\bin\Debug\net5.0\ref\DesignPatterns.Mediator.dll
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Mediator\bin\Debug\net5.0\DesignPatterns.Mediator.pdb
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Mediator\obj\Debug\net5.0\DesignPatterns.Mediator.csproj.AssemblyReference.cache
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Mediator\obj\Debug\net5.0\DesignPatterns.Mediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Mediator\obj\Debug\net5.0\DesignPatterns.Mediator.AssemblyInfoInputs.cache
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Mediator\obj\Debug\net5.0\DesignPatterns.Mediator.AssemblyInfo.cs
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Mediator\obj\Debug\net5.0\DesignPatterns.Mediator.csproj.CoreCompileInputs.cache
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Mediator\obj\Debug\net5.0\DesignPatterns.Mediator.dll
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Mediator\obj\Debug\net5.0\ref\DesignPatterns.Mediator.dll
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Mediator\obj\Debug\net5.0\DesignPatterns.Mediator.pdb
+C:\Users\pc-cantelli\Documents\Programação 2018\Design Patterns\Patterns - Github\DesignPatterns\DesignPatterns.Mediator\obj\Debug\net5.0\DesignPatterns.Mediator.genruntimeconfig.cache
