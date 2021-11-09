@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Design Patterns\\Patterns - Github\\DesignPatterns\\DesignPatterns.Proxy\\DesignPatterns.Proxy.csproj": {}
+    "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Design Patterns\\Patterns - Github\\DesignPatterns\\DesignPatterns.Memento\\DesignPatterns.Memento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Design Patterns\\Patterns - Github\\DesignPatterns\\DesignPatterns.Proxy\\DesignPatterns.Proxy.csproj": {
+    "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Design Patterns\\Patterns - Github\\DesignPatterns\\DesignPatterns.Memento\\DesignPatterns.Memento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Design Patterns\\Patterns - Github\\DesignPatterns\\DesignPatterns.Proxy\\DesignPatterns.Proxy.csproj",
-        "projectName": "DesignPatterns.Proxy",
-        "projectPath": "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Design Patterns\\Patterns - Github\\DesignPatterns\\DesignPatterns.Proxy\\DesignPatterns.Proxy.csproj",
+        "projectUniqueName": "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Design Patterns\\Patterns - Github\\DesignPatterns\\DesignPatterns.Memento\\DesignPatterns.Memento.csproj",
+        "projectName": "DesignPatterns.Memento",
+        "projectPath": "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Design Patterns\\Patterns - Github\\DesignPatterns\\DesignPatterns.Memento\\DesignPatterns.Memento.csproj",
         "packagesPath": "C:\\Users\\pc-cantelli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Design Patterns\\Patterns - Github\\DesignPatterns\\DesignPatterns.Proxy\\obj\\",
+        "outputPath": "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Design Patterns\\Patterns - Github\\DesignPatterns\\DesignPatterns.Memento\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
