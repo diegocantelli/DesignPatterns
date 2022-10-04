@@ -4,6 +4,7 @@
 //estados e tipos diferentes, esse design é aplicável
 
 //Sera criado um builder para cada tipo possivel com base no plano de celular
+//e com base nas propriedades diferentes para cada plano
 //“Mobile  plan | Text message limit  |     Mobile data transfer | Connection speed
 //Prepaid       | 1,000/month         |     10 gigabytes/month   | 10 megabytes/sec
 //Postpaid      | Unlimited           |     Unlimited            | 500 megabytes/sec”
