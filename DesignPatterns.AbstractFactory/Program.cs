@@ -2,6 +2,7 @@
 
 //Dado estruturas que possuem as mesmas propriedades, mas cada objeto possui
 //estados e tipos diferentes, esse design é aplicável
+//É geralmente considerada como uma factory de outras factorys
 
 //Sera criado um builder para cada tipo possivel com base no plano de celular
 //e com base nas propriedades diferentes para cada plano
@@ -15,7 +16,13 @@ namespace DesignPatterns.AbstractFactory
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var mobilePlanPrePaid = new MobilePlanClient(Enums.MobilePlan.Prepaid);
+            Console.WriteLine(mobilePlanPrePaid.Describe()); 
+
+            var mobilePlanPostPaid = new MobilePlanClient(Enums.MobilePlan.Postpaid);
+            Console.WriteLine(mobilePlanPostPaid.Describe());
+
+            Console.ReadLine();
         }
     }
 }
